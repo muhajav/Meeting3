@@ -1,0 +1,27 @@
+input: 1 4 2
+output: 
+	D = 8
+	The discriminant is greater than 0, then x1 and x2 are real and distinct
+	x1 = -0.585786
+	x2 = -3.41421
+
+input: 9 -2 100
+output: 
+	D = -3596
+	The discriminant is less than 0, then x1 and x2 are imaginary
+
+input: 1 -4 4
+output:
+	D = 0
+	The discriminant is equal to 0, then x1 and x2 are real and equal
+	x = 2
+
+input: 100 -200 1999
+output: 
+	D = -759600
+	The discriminant is less than 0, then x1 and x2 are imaginary
+
+input: 2 -5 10
+output: 
+	D = -55
+	The discriminant is less than 0, then x1 and x2 are imaginary
