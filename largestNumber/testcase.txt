@@ -1,0 +1,14 @@
+input: 8 100 -10000
+output: The largest number is 100
+
+input: 9 9 9
+output: The largest number is 9
+
+input: 8 7 4
+output: The largest number is 8
+
+input: 79 9000 -100000
+output: The largest number is 9000
+
+input: -10000 -90 -1
+output: The largest number is -1
